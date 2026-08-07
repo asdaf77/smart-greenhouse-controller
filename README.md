@@ -53,4 +53,4 @@ A custom **Arduino Uno shield** — the Greenhouse Controller Shield — that re
 
 ## Author
 
-**Abdulatef** — Final-Year BEng (Hons) Mechatronics Engineering, Asia Pacific University of Technology and Innovation (APU), Kuala Lumpur
+**Abdulatef** — Final-Year BEng (Hons) Mechatronics Engineering, Kuala Lumpur, Malaysia
